@@ -1,2 +1,3 @@
-# vim_setup
-Place to store vimrc
+# Ubuntu Machine Setup
+
+Quick script and repo for files to load to a fresh ubuntu install
